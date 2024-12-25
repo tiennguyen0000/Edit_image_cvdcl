@@ -1,0 +1,10 @@
+                    scal,
+                    1.0, #edit_cfg
+                    1.0, #inersion_strength
+                    True, #avg_gradients
+                    0, #first_step_range_start
+                    5, #first_step_range_end
+                    8, #rest_step_range_start
+                    10, #rest_step_range_end
+                    20.0, #lambda_ac
+                    0.055, #lambda_kl
